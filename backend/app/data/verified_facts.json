@@ -1,0 +1,94 @@
+{
+  "facts": [
+    {
+      "id": "fact_1",
+      "claim": "The Great Wall of China is visible from space with the naked eye",
+      "truth_value": "FALSE",
+      "verified_fact": "The Great Wall of China is NOT visible from space with the naked eye. This is a common myth. According to NASA, the Great Wall is difficult to see even from low Earth orbit without magnification.",
+      "source": "NASA Official Statement",
+      "source_date": "2024-01-15",
+      "confidence": 0.95,
+      "category": "science",
+      "tags": ["space", "architecture", "myth"]
+    },
+    {
+      "id": "fact_2",
+      "claim": "We only use 10% of our brain",
+      "truth_value": "FALSE",
+      "verified_fact": "Humans use virtually every part of the brain, and most of the brain is active almost all the time. The 10% myth has been debunked by neurological research and brain imaging studies.",
+      "source": "Scientific American, Neuroscience Research",
+      "source_date": "2023-11-20",
+      "confidence": 0.98,
+      "category": "science",
+      "tags": ["brain", "neuroscience", "myth"]
+    },
+    {
+      "id": "fact_3",
+      "claim": "COVID-19 vaccines contain microchips",
+      "truth_value": "FALSE",
+      "verified_fact": "COVID-19 vaccines do not contain microchips, tracking devices, or any technology for surveillance. This claim has been thoroughly debunked by medical authorities, vaccine manufacturers, and independent fact-checkers worldwide.",
+      "source": "WHO, CDC, Reuters Fact Check",
+      "source_date": "2024-02-10",
+      "confidence": 0.99,
+      "category": "health",
+      "tags": ["vaccine", "covid19", "conspiracy"]
+    },
+    {
+      "id": "fact_4",
+      "claim": "Elon Musk is the CEO of Twitter",
+      "truth_value": "OUTDATED",
+      "verified_fact": "Elon Musk was the CEO of Twitter, but this is now outdated. Twitter has been rebranded to 'X' (July 2023), and Linda Yaccarino became CEO in June 2023. Musk remains Executive Chairman and CTO.",
+      "source": "Official X Corp Announcement, Business News",
+      "source_date": "2023-06-15",
+      "confidence": 0.97,
+      "historical_context": "Elon Musk acquired Twitter in October 2022 and served as CEO until June 2023 when Linda Yaccarino took over the CEO role.",
+      "was_previously_true": true,
+      "category": "business",
+      "tags": ["twitter", "x", "elon musk", "tech"]
+    },
+    {
+      "id": "fact_5",
+      "claim": "Drinking 8 glasses of water daily is essential",
+      "truth_value": "MISLEADING",
+      "verified_fact": "The '8 glasses of water a day' rule is a simplified guideline, not a scientific requirement. Actual water needs vary by person, activity level, climate, and diet. The body regulates hydration well through thirst.",
+      "source": "Mayo Clinic, Harvard Medical School",
+      "source_date": "2023-09-05",
+      "confidence": 0.88,
+      "category": "health",
+      "tags": ["health", "hydration", "nutrition"]
+    },
+    {
+      "id": "fact_6",
+      "claim": "Mount Everest is the tallest mountain on Earth",
+      "truth_value": "TRUE",
+      "verified_fact": "Mount Everest is indeed the tallest mountain above sea level at 8,848.86 meters (29,031.7 feet). However, if measured from base to peak, Mauna Kea in Hawaii is taller, and if measured from Earth's center, Mount Chimborazo in Ecuador is the farthest point from Earth's center.",
+      "source": "National Geographic, Geological Survey",
+      "source_date": "2024-01-20",
+      "confidence": 0.99,
+      "category": "geography",
+      "tags": ["mountain", "everest", "geography"]
+    },
+    {
+      "id": "fact_7",
+      "claim": "5G networks cause COVID-19",
+      "truth_value": "FALSE",
+      "verified_fact": "There is no scientific evidence linking 5G networks to COVID-19. Viruses cannot travel on radio waves or mobile networks. COVID-19 is spread through respiratory droplets when an infected person coughs, sneezes, or speaks.",
+      "source": "WHO, IEEE, Medical Journals",
+      "source_date": "2023-12-18",
+      "confidence": 0.99,
+      "category": "health",
+      "tags": ["5g", "covid19", "conspiracy"]
+    },
+    {
+      "id": "fact_8",
+      "claim": "Humans swallow 8 spiders per year while sleeping",
+      "truth_value": "FALSE",
+      "verified_fact": "This is a widely circulated myth with no scientific basis. Spiders avoid humans and the vibrations from breathing would deter them. This myth was actually created in 1993 to show how easily false information spreads.",
+      "source": "Scientific American, Arachnology Studies",
+      "source_date": "2023-10-12",
+      "confidence": 0.94,
+      "category": "science",
+      "tags": ["spider", "myth", "urban legend"]
+    }
+  ]
+}
